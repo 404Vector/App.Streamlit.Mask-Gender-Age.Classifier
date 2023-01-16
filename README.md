@@ -1,4 +1,4 @@
-# WebService::Mask & Gender & Age Classifier
+# App::Mask & Gender & Age Classifier
 
 - ViT 기반 Mask, Gender, Age Classifier
 
